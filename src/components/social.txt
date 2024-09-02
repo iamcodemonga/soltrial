@@ -1,0 +1,11 @@
+Create a social networking app on the solana blockchain that uses account abstraction and walletless onboarding. Architect and give a detailed explanation by creating it as an example. use the following instructions while creating it:
+1. During registration, get the username, email, and password of the user and log them in with their username and password.
+2. use supabase as our database.
+3. Use the react-native expo library/framework for mobile development.
+4. Create a smart contract wallet to handle transactions in the app using the anchor framework.
+5. Create other smart contract that are neccessary for this project using the anchor framework.
+6. Users can earn tokens in the app by posting contents and can spend tokens to follow other users.
+7. Users can tip other users using their tokens.
+8. Use node.js for backend if you feel the need to.
+I don't know the best way users can buy tokens when they run out of it and can't earn it, Do you have any idea?
+N/B: Our users are not familiar with blockchain technologies.
